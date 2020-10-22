@@ -1,0 +1,1 @@
+pythonw "C:\LoginImgs\main.py"
